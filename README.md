@@ -58,7 +58,10 @@ Publication in ICoDIS 2018
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samudra-ajri&theme=react"/>
 </p>
 
-### Let’s Have A Cup of Coffee  
+<br>
+<br>
+
+### Let’s Have a Cup of Coffee!  
 I’m always happy to collaborate, chat about software engineering, or share learning experiences:   
    
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samudra-ajri)
