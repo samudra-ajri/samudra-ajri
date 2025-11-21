@@ -6,7 +6,7 @@
 
 
 ### About Me  
-Hi! I’m Samudra, a backend engineer who loves building systems that feel effortless for users.  
+Hi! I’m Ajri, a backend engineer who loves building systems that feel effortless for users.  
 I enjoy taking complex problems and turning them into smooth, scalable solutions that help real people every day.  
 Clean architecture, great performance, and observability are things I take pride in.
 
@@ -33,7 +33,7 @@ Clean architecture, great performance, and observability are things I take pride
   <img src="https://skillicons.dev/icons?i=aws,nginx,cloudflare" />
 </p>
 
-> Also enjoy: ElasticSearch · Kibana · Microservices · Clean Architecture  
+> Also enjoy: ElasticSearch · Kibana · Microservices · Clean Architecture · Many more
 
 ### Project Close to My Heart
 
