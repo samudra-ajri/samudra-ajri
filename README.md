@@ -18,22 +18,19 @@ Clean architecture, great performance, and observability are things I take pride
 
 ### Tech I Love Working With
 
-#### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,go,laravel,python,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,go,laravel,nest,python,react" />
 </p>
 
-#### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
 </p>
 
-#### Tools & Infra
 <p>
   <img src="https://skillicons.dev/icons?i=aws,nginx,cloudflare" />
 </p>
 
-> Also enjoy: ElasticSearch · Kibana · Microservices · Clean Architecture · Many more
+> Also enjoy: n8n · Kibana · Microservices · Clean Code · Clean Architecture · Many more
 
 ### Project Close to My Heart
 
