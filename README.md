@@ -64,7 +64,8 @@ Publication in ICoDIS 2018
 ### Let’s Have a Cup of Coffee!  
 I’m always happy to collaborate, chat about software engineering, or share learning experiences:   
    
+[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logoColor=white)](https://samudra-ajri.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samudra-ajri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samudra-ajri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/samudra-ajri)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samudra1ajri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samudra1ajri@gmail.com)
