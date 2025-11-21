@@ -6,7 +6,7 @@
 
 
 ### About Me  
-Hi! I’m Ajri, a software engineer who loves building systems that feel effortless for users.  
+Hi! I’m Ajri, a backend engineer who loves building systems that feel effortless for users.  
 I enjoy taking complex problems and turning them into smooth, scalable solutions that help real people every day.  
 Clean architecture, great performance, and observability are things I take pride in.
 
@@ -59,14 +59,9 @@ Publication in ICoDIS 2018
 </p>
 
 ### Let’s Have A Cup of Coffee  
-I’m always happy to collaborate, chat about software engineering, or share learning experiences:
-
-LinkedIn: [linkedin.com/in/samudra-ajri](https://linkedin.com/in/samudra-ajri)  
-Medium: [medium.com/@samudra1ajri](https://medium.com/@samudra1ajri)  
-Email: samudra1ajri@gmail.com  
-
-<div align="center">
-
-_“Technology is most impactful when it makes people smiling, even in the smallest ways.”_
-
-</div>
+I’m always happy to collaborate, chat about software engineering, or share learning experiences:   
+   
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samudra-ajri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samudra-ajri)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samudra1ajri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samudra1ajri@gmail.com)
