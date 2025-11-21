@@ -61,10 +61,9 @@ Publication in ICoDIS 2018
 ### Let’s Have A Cup of Coffee  
 I’m always happy to collaborate, chat about software engineering, or share learning experiences:
 
-LinkedIn: linkedin.com/in/samudra-ajri  
-GitHub: github.com/samudra-ajri  
-Medium: medium.com/@samudra1ajri.  
-Email: samudra_ajri@live.com  
+LinkedIn: [linkedin.com/in/samudra-ajri](https://linkedin.com/in/samudra-ajri)  
+Medium: [medium.com/@samudra1ajri](https://medium.com/@samudra1ajri)  
+Email: samudra1ajri@gmail.com  
 
 <div align="center">
 
